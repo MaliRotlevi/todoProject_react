@@ -1,0 +1,12 @@
+#myToDo{
+border: 2px solid rgb(83, 59, 13);
+background-color: rgb(226, 203, 153);
+width: 15%;
+height: auto;
+display:inline-block;
+margin: 1%;
+padding-top: 2%;
+flex: 4;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:165%;
+}
